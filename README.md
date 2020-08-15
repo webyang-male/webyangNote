@@ -3,9 +3,9 @@
 
 
 ### 笔记进程
-☑ HTML/CSS
-☑ JavaScript
-☐ Node
+☑ HTML/CSS    
+☑ JavaScript    
+☐ Node    
 ☐ Vue
 
 
