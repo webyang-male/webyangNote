@@ -4,8 +4,8 @@
 
 ### 笔记进程
 ☑ HTML/CSS    
-☑ JavaScript
-☑ Typescript
+☑ JavaScript    
+☑ Typescript    
 ☐ Node    
 ☐ Vue
 
